@@ -1,6 +1,6 @@
 # Shashank Raj 🌟
 
-📧: rajshash@msu.edu | 📞: 517-402-1220 | 🔗: [LinkedIn](linkedin.com/in/rshashank10) | 📚: [Github](https://github.com/shashoriginal)
+📧: rajshash@msu.edu | 🔗: [LinkedIn](linkedin.com/in/rshashank10) | 📚: [Github](https://github.com/shashoriginal)
 
 ## Education 🎓
 
