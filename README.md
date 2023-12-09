@@ -15,17 +15,30 @@
 
 ### Undergraduate Learning Assistant, Department of Mathematics (MSU)
 _Aug 2023-Current_
-- Assisting with course management, grading, and tutoring.
+- Participating in all orientations and weekly course meetings, assisting with both in-person and online recitations as directed by the 
+course supervisor. 
+- Overseeing grading, record-keeping, and proctoring duties while also facilitating group discussions, evening exams, and various
+student communications. 
+- Providing tutoring support, both at Math Learning Center locations and through online homework forums, following specific MLC 
+procedures and scheduling. 
 
 ### Tech Intern, Institute for Cyber-Enabled Research (ICER-MSU)
 _Dec 2022-Current_
-- Web development and documentation tasks.
+- Part of the Website Team. 
+- Responsible for fixing issues concerning Wiki Documentation. 
+- Completed the construction of ICER's Bioinformatics Core project. 
+- Migration of ICER's website from Drupal to Sitecore. 
+- Responsible for collaboratively working with peers on collaborative issues.
 
 ### Revamp Head (IT), SR MINES & MINERALS CO.
 _April - May 2021_
-- Revamped company website, improving user interaction and server performance.
+- Successfully revamped the company's website using the Velo platform, resulting in a 300% increase in user interaction, 200% 
+improvement in responsiveness, resolved e-mail server latency issues, and a boosted Google PageSpeed Insights Score from 68 to 92.
 
 ## Projects 🔨
+
+### Time Series Analysis Data Science Project (Latest) ⌛
+- Executed a project combining ARIMA and LSTM networks for stock price prediction. Utilized Streamlit for enhanced efficiency. Part of honors project for CMSE 202 (MSU).
 
 ### RuneAI 🤖
 - Developed a sophisticated AI chatbot using Palm 2. [RuneAI](runeai.streamlit.app)
@@ -33,12 +46,10 @@ _April - May 2021_
 ### ByteBlogs 💻
 - Founded and grew a unique blog site with over 2 million impressions. [ByteBlogs](byteblogs.info)
 
-### Time Series Analysis Data Science Project (Latest) ⌛
-- Executed a project combining ARIMA and LSTM networks for stock price prediction. Utilized Streamlit for enhanced efficiency. Part of honors project for CMSE 202.
 
 ## Skills 🛠️
 
-- Programming Languages: Python, Django, SQL, CSS, Bootstrap, Streamlit, RStudio, JS
+- Programming Languages: Python, Django, SQL, CSS, Bootstrap, Streamlit, RStudio, JS, TensorFlow
 - Utilities: Visual Studio Code, Canva
 
 ## Additional 🌐
