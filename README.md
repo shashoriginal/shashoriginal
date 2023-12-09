@@ -48,10 +48,17 @@ improvement in responsiveness, resolved e-mail server latency issues, and a boos
 
 
 ## Skills 🛠️
-
-- Programming Languages: Python, Django, SQL, CSS, Bootstrap, Streamlit, RStudio, JS, TensorFlow
-- Utilities: Visual Studio Code, Canva
-
+### Programming Languages 💻
+- 🐍 Python
+- 🌐 Django
+- 🗄️ SQL
+- 🎨 CSS
+- 🥾 Bootstrap
+- 🧮 Streamlit
+- 📊 RStudio
+- 🟨 JS
+- 🤖 TensorFlow
+  
 ## Additional 🌐
 
 - Conversant in English, Hindi, Urdu, & Sanskrit.
