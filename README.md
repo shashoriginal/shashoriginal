@@ -5,7 +5,7 @@
 ## Education 🎓
 
 - B.S. Computer Science, Michigan State University (Honors College)
-- Minors: Data Science, Entrepreneurship & Innovation (CMSE)
+- Minors: Data Science, Entrepreneurship & Innovation, CMSE (Computational Mathematics, Science and Engineering)
 - Dean's List
 - International Student Tuition Grant Scholarship Recipient
 - Presidential Study Abroad Scholarship Recipient
