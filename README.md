@@ -45,6 +45,11 @@ improvement in responsiveness, resolved e-mail server latency issues, and a boos
 - Executed a comprehensive HDI Analysis Project using R. Part of honors project for STT 180.
 - [View the project on GitHub](https://github.com/shashoriginal/hdi_analysis)
 
+### DataD 📊 
+- a simple yet powerful tool for data analysis! Built with Streamlit, SweetViz, & DataPrep, it's designed to make EDA a breeze. 
+[View the project on GitHub](https://github.com/shashoriginal/DataD)
+
+
 ### RuneAI 🤖
 - Developed a sophisticated AI chatbot using Palm 2. [RuneAI](runeai.streamlit.app)
 
