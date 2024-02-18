@@ -47,7 +47,7 @@ improvement in responsiveness, resolved e-mail server latency issues, and a boos
 
 ### DataD 📊 
 - a simple yet powerful tool for data analysis! Built with Streamlit, SweetViz, & DataPrep, it's designed to make EDA a breeze. 
-[View the project on GitHub](https://github.com/shashoriginal/DataD)
+- [View the project on GitHub](https://github.com/shashoriginal/DataD)
 
 
 ### RuneAI 🤖
