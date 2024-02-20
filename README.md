@@ -49,6 +49,11 @@ improvement in responsiveness, resolved e-mail server latency issues, and a boos
 - a simple yet powerful tool for data analysis! Built with Streamlit, SweetViz, & DataPrep, it's designed to make EDA a breeze. 
 - [View the project on GitHub](https://github.com/shashoriginal/DataD)
 
+### PDF-C 📄 Converter
+
+- Convert PDFs to DOCX, PNG, or TXT within seconds with a simple upload.
+- [View the project on GitHub](https://github.com/shashoriginal/pdf-c)
+
 
 ### RuneAI 🤖
 - Developed a sophisticated AI chatbot using Palm 2. [RuneAI](runeai.streamlit.app)
