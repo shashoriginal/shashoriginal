@@ -9,7 +9,7 @@
 - Dean's List
 - International Student Tuition Grant Scholarship Recipient
 - Presidential Study Abroad Scholarship Recipient
-- GPA: 4.0
+- GPA: 3.87
 
 ## Work Experience 💼
 
