@@ -1,6 +1,6 @@
 # Shashank Raj 🌟
 
-📧: rajshash@msu.edu | 🔗: [LinkedIn](linkedin.com/in/rshashank10) | :octocat: [GitHub](https://github.com/shashoriginal)
+📧: rajshash@msu.edu | 🔗: <a href="https://linkedin.com/in/rshashank10" target="_blank">LinkedIn</a> | :octocat: [GitHub](https://github.com/shashoriginal)
 
 ## Education 🎓
 
