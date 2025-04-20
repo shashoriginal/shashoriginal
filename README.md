@@ -72,7 +72,7 @@
           <p><i>Researcher and Algorithm Developer | Sep. 2024 – Present</i></p>
           <ul>
             <li>🚀 Developed the <b>Optimized Search Algorithm</b>, achieving up to <b>931× speedup</b> over NumPy's searchsorted</li>
-            <li>⚡ Engineered the <b>Advanced Partition Sort Engine</b> with <b>11× speedup</b> on datasets up to 10 billion integers</li>
+            <li>⚡ Engineered the <b>Advanced Partition Sort Engine</b> with <b>100× speedup</b> on datasets up to 10 billion integers</li>
             <li>🔬 Collaborated with Dr. Kalyanmoy Deb in one of the world's leading research labs for computational optimization</li>
             <li>📝 Both algorithms currently undergoing patent vetting process</li>
           </ul>
