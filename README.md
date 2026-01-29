@@ -26,6 +26,8 @@ Research on the intersection of Multi & Many Objective Optimization, Evolutionar
 
 ### Publications
 
+Raj, Shashank, and Kalyanmoy Deb. 2026. "HyBMSearch: A Fast Multi-Level Search Algorithm Delivering Order-of-Magnitude Speedups on Multi-Billion Datasets." *Journal of Parallel and Distributed Computing*, 105226.
+
 Raj, Shashank, and Kalyanmoy Deb. 2025. "EvoSort: A Genetic-Algorithm-Based Adaptive Parallel Sorting Framework for Large-Scale High Performance Computing." *International Journal of Parallel, Emergent and Distributed Systems*, December, 1–39. doi:10.1080/17445760.2025.2609138.
 
 ---
